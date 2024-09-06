@@ -1,0 +1,15 @@
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\bin\Debug\net8.0\Exemplo_um.exe
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\bin\Debug\net8.0\Exemplo_um.deps.json
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\bin\Debug\net8.0\Exemplo_um.runtimeconfig.json
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\bin\Debug\net8.0\Exemplo_um.dll
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\bin\Debug\net8.0\Exemplo_um.pdb
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.AssemblyInfoInputs.cache
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.AssemblyInfo.cs
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.csproj.CoreCompileInputs.cache
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.sourcelink.json
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.dll
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\refint\Exemplo_um.dll
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.pdb
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\Exemplo_um.genruntimeconfig.cache
+C:\Users\kaue7\OneDrive\Documentos\Estudos\Dotnet\Exemplo_um\obj\Debug\net8.0\ref\Exemplo_um.dll
