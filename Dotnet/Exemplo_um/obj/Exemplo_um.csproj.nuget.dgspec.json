@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\Exemplo_um\\Exemplo_um.csproj": {}
+    "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\exemplo_um\\exemplo_um.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\Exemplo_um\\Exemplo_um.csproj": {
+    "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\exemplo_um\\exemplo_um.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\Exemplo_um\\Exemplo_um.csproj",
-        "projectName": "Exemplo_um",
-        "projectPath": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\Exemplo_um\\Exemplo_um.csproj",
+        "projectUniqueName": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\exemplo_um\\exemplo_um.csproj",
+        "projectName": "exemplo_um",
+        "projectPath": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\exemplo_um\\exemplo_um.csproj",
         "packagesPath": "C:\\Users\\kaue7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\Exemplo_um\\obj\\",
+        "outputPath": "C:\\Users\\kaue7\\OneDrive\\Documentos\\Estudos\\Dotnet\\exemplo_um\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaue7\\AppData\\Roaming\\NuGet\\NuGet.Config"

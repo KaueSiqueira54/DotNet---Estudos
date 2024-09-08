@@ -1,2 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("First line in C#...");
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
